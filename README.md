@@ -5,6 +5,7 @@ npm install
 
 npm run dev - localhost:5000
 
+
 API é capaz de cadastrar um novo usuário, ver a lista de um usuário ou de todos os usuários, editar um usuário.
 | Verbo |	Recurso         |	Descrição                        |
 |-------|-----------------|----------------------------------|
